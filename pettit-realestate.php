@@ -16,7 +16,7 @@
  * Plugin Name:       Pettit Real Estate
  * Plugin URI:        https://www.larrypettitrealestate.com/
  * Description:       Pettit Real Estate customization code independent of any theme choice.
- * Version:           1.0.2
+ * Version:           1.0.3
  * GitHub Plugin URI: mikepuglisi/pettit-realestate-plugin
  * Author:            Mike Puglisi
  * Author URI:        https://www.larrypettitrealestate.com
