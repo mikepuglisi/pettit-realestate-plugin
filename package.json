@@ -1,0 +1,20 @@
+{
+	"name": "pettit-realestate",
+	"version": "1.1.0",
+	"private": true,
+	"description": "Gutenberg Blocks for Pettit Real Estate",
+	"author": "Mike Puglisi",
+	"keywords": [
+		"WordPress",
+		"editor",
+		"Examples"
+	],
+	"scripts": {
+		"build:call-to-action": "wp-scripts build blocks/call-to-action/src/index.js --output-path=blocks/call-to-action/build",
+    "watch": "wp-scripts start blocks/call-to-action/src/index.js --output-path=blocks/call-to-action/build"
+	},
+	"devDependencies": {
+		"@wordpress/components": "^8.1.0",
+		"@wordpress/scripts": "^5.0.0"
+	}
+}
